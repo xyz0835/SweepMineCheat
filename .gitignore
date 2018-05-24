@@ -1,0 +1,7 @@
+*.jpg
+*.exe
+*.pdb
+bin
+obj
+debug
+*.suo
