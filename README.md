@@ -1,4 +1,7 @@
 ﻿# SweepMineCheat
+ 
+ MineSweeper Cheet
+ 
 C# 扫雷外挂，win7平台
 
 打开扫雷游戏，打开外挂，点击扫雷按钮即可
